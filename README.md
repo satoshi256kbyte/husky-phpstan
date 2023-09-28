@@ -2,8 +2,7 @@
 
 huskeyでpre-commitでPHPStanを実行するサンプルコードです
 
-.huskyの設定ファイルはコマンド作成してます。
-vv
+.huskyの設定ファイルはコマンド作成することができます。
 
 ```bash
 npx husky install
